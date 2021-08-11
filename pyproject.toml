@@ -6,6 +6,10 @@ authors = ["Yahia Qous <yahiaqous@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+jupyterlab = "^3.1.4"
+matplotlib = "^3.4.2"
+pandas = "^1.3.1"
+seaborn = "^0.11.1"
 
 [tool.poetry.dev-dependencies]
 
